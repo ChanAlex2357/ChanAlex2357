@@ -1,8 +1,9 @@
 Hi! , I'm  Chan Alex 
 
 ## Contacts
-📞 +261 338 81 559 70 ( WhatsApp )
-📫 Mail : chanalexjacques@gmail.com 
+
+- 📞 +261 338 81 559 70 ( WhatsApp )
+- 📫 Mail : chanalexjacques@gmail.com 
 <!--
 **ChanAlex2357/ChanAlex2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
