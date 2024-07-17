@@ -19,7 +19,8 @@ Passioned by softwares,web developpements
     <td>Python</td>
   </tr>
 </table>
-## FRONTEND
+
+### FRONTEND
 <table>
   <tr>
     <td>HTML</td>
@@ -29,7 +30,8 @@ Passioned by softwares,web developpements
     <td>Python</td>
   </tr>
 </table>
-## FRAMEWORK
+
+### FRAMEWORK
 <table>
   <tr>
     <td>Angular</td>
