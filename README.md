@@ -16,6 +16,7 @@ Passioned by softwares,web developpements
     <td>PHP</td>
     <td>Node</td>
     <td>Javascript</td>
+    <td>Python</td>
   </tr>
 </table>
 ## FRONTEND
@@ -25,6 +26,7 @@ Passioned by softwares,web developpements
     <td>CSS</td>
     <td>SCSS</td>
     <td>Javascript</td>
+    <td>Python</td>
   </tr>
 </table>
 ## FRAMEWORK
