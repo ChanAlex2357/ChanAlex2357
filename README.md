@@ -1,9 +1,40 @@
-Hi! , I'm  Chan Alex 
+Hi! , I'm  Chan Alex
+Passioned by softwares,web developpements
+## SKILLS 
+- 70% Backend
+- 30% Frontend 
 
-## Contacts
+## TECHNOLOGIES
 
-- 📞 +261 38 81 559 70 ( WhatsApp )
-- 📫 Mail : chanalexjacques@gmail.com 
+### BACKEND
+<table>
+  <tr>
+    <td>Java</td>
+    <td>C#</td>
+    <td>C++</td>
+    <td>Perl</td>
+    <td>PHP</td>
+    <td>Node</td>
+    <td>Javascript</td>
+  </tr>
+</table>
+## FRONTEND
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>SCSS</td>
+    <td>Javascript</td>
+  </tr>
+</table>
+## FRAMEWORK
+<table>
+  <tr>
+    <td>Angular</td>
+    <td>CodeIgniter</td>
+    <td>Spring</td>
+  </tr>
+</table>
 <!--
 **ChanAlex2357/ChanAlex2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
