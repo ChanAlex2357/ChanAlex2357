@@ -10,6 +10,7 @@ Passioned by softwares,web developpements
 <table>
   <tr>
     <td>Java</td>
+    <td>Spring Boot</td>
     <td>C#</td>
     <td>C++</td>
     <td>Perl</td>
@@ -26,30 +27,9 @@ Passioned by softwares,web developpements
     <td>HTML</td>
     <td>CSS</td>
     <td>SCSS</td>
-    <td>Javascript</td>
-    <td>Python</td>
-  </tr>
-</table>
-
-### FRAMEWORK
-<table>
-  <tr>
+    <td>Vue.js</td>
     <td>Angular</td>
-    <td>CodeIgniter</td>
-    <td>Spring</td>
+    <td>Javascript</td>
   </tr>
 </table>
-<!--
-**ChanAlex2357/ChanAlex2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
